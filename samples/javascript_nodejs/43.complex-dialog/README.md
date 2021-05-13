@@ -22,7 +22,7 @@ This sample creates a complex conversation with dialogs.
 - In a terminal, navigate to `samples/javascript_nodejs/43.complex-dialog`
 
     ```bash
-    cd samples/javascript_nodejs43.complex-dialog
+    cd samples/javascript_nodejs/43.complex-dialog
     ```
 
 - Install modules
